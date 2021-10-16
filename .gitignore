@@ -16,6 +16,7 @@ fp-info-cache
 
 # Netlist files (exported from Eeschema)
 *.net
+*.cir
 
 # Autorouter files (exported from Pcbnew)
 *.dsn
