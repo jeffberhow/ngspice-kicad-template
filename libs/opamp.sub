@@ -1,0 +1,3 @@
+.subckt opamp_ideal in+ in- out
+EGAIN out GND in+ in- 10e5
+.ends opamp_ideal
