@@ -1,1 +1,1 @@
-# ngspice-kicad-template
+# ngspice-template
